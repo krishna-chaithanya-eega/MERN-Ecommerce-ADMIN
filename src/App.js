@@ -2,7 +2,7 @@
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
-import "./app.css";
+import "./App.css";
 
 import Topbar from "./components/topbar/Topbar";
 import Sidebar from "./components/sidebar/Sidebar";
